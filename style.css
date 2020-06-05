@@ -1,0 +1,40 @@
+.ram{
+    color: chartreuse;
+    font-size: 22px;
+    font: outline;
+}
+.rameUR{
+    color: crimson;
+    font-size: 22px;
+    font: outline;
+}
+#taskManager {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #taskManager td, #taskManager th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  /* #taskManager tr:nth-child(even){background-color: #f2f2f2;} */
+  
+  #taskManager tr:hover {background-color: #833471;}
+  
+  #taskManager th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+  button{
+    background-color: cornflowerblue ;
+    font: outline;
+    color: cornsilk;
+  }
+  #taskManager td{
+      color: cornsilk;
+  }
